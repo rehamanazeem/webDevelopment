@@ -1,0 +1,54 @@
+body
+{
+	background-color: #93D5C3;
+}
+
+h1
+{
+	font-family: 'Lobster Two', cursive;
+	font-size: 8em;
+	text-align: center;
+	margin-top: 110px;
+	color: #DD8929;
+}
+
+.card
+{
+	background: #93D5C3;
+}
+
+
+.alert-dark
+{
+	background: #93D5C3;
+}
+.alert
+{
+	font-family: 'Poiret One', cursive;
+	font-size: 1.2em;
+	color: black;
+	text-align: center;
+	background-color: darkgrey;
+	font-weight: bold;
+
+}
+
+
+#head
+{
+	height: 400px;
+	color: black;
+	font-family: 'Poiret One', cursive;
+	text-align: center;
+}
+
+a
+{
+    text-decoration: none !important;
+    color: white;
+}
+
+a:hover
+{
+	color: darkgrey;
+}

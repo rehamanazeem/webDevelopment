@@ -1,0 +1,161 @@
+.cont
+{
+	background: #93D5C3;
+	height: 130px;
+}
+
+h1
+{
+	font-family: 'Lobster Two', cursive;
+	font-size: 6em;
+	text-align: center;
+	color: #DD8929;
+}
+
+h2
+{
+	font-family: 'Lobster Two', cursive;
+}
+
+h4
+{
+	font-family: 'Lobster Two', cursive;
+}
+
+h5
+{
+	font-family: 'Lobster Two', cursive;
+}
+
+h6
+{
+	font-family: 'Poiret One', cursive;
+}
+
+.loc
+{
+	font-family: 'Lobster Two', cursive;
+}
+p
+{
+	font-family: 'Poiret One', cursive;
+	font-size: 1.3em;
+}
+
+a
+{
+    text-decoration: none !important;
+    color: #DD8929;
+    font-family: 'Poiret One', cursive;
+}
+
+a:hover
+{
+	color: darkgrey;
+}
+
+.button
+{
+	float: right;
+	margin-right: 18px;
+	margin-top: -40px;
+}
+
+img
+{
+	width: 80px;
+}
+
+.post
+{
+	width: 700px;
+	height: 180px;
+}
+
+.postbox
+{
+	width: 700px;
+	height: 100px;
+}
+
+.place
+{
+	float: right;
+	width: 230px;
+	margin-top: 5px;
+	margin-right: 2px;
+	text-align: center;
+}
+
+.feed
+{
+	height: 1000px;
+	border: 2px black solid;
+	padding-top: 20px;
+	padding-left: 15px;	
+}
+
+.card-post
+{
+	margin-left: 30px;
+	margin-bottom: 20px;
+	border: 1px black dotted;
+	width: 800px;
+	padding-left: 10px;
+}
+
+.userpost
+{
+	width: 800px;
+	word-wrap: break-word;
+}
+
+.feed2
+{
+	background-color: #BEFDEC;
+	border: 2px grey solid;
+	margin-top: 150px;
+	margin-left: -150px;
+	width: 280px;
+}
+
+.img
+{
+	background-color: grey;
+	width: 200px;
+	height: 200px;
+	margin-top: 20px;
+	text-align: center;
+	margin-top: 10px !important;
+}
+
+.greet
+{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.menu1
+{
+	border: 1px orange solid;
+	width: 220px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+.menu2
+{
+	border: 1px orange solid;
+	width: 220px;
+	height: 100px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding-top: 10px;
+}
+
+
